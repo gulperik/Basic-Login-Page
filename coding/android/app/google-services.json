@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611783005898",
+    "project_id": "mynotess-gulperi-project",
+    "storage_bucket": "mynotess-gulperi-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611783005898:android:e25345041acec50148c633",
+        "android_client_info": {
+          "package_name": "se.pixolity.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSm1Lf4xKlcXMxrYRENSaIgia76K2VNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
